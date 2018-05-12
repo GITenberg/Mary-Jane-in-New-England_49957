@@ -1,9 +1,13 @@
 _repo: Mary-Jane-in-New-England_49957
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Gooch, Thelma
     gutenberg_agent_id: '32061'
     url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 49957-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Judson, Clara Ingram
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '2917'
     url: http://www.gutenberg.org/2009/agents/2917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49957#Mary-Jane-in-New-England
 gutenberg_issued: '2015-09-13'
 gutenberg_type: Text
 identifiers:
